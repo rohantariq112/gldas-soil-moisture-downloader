@@ -1,4 +1,4 @@
-# GLDAS NOAH 0.25° Monthly Soil Moisture Downloader & Clipper
+# GLDAS NOAH 0.25° Monthly Soil Moisture Downloader
 
 A Python utility to automatically search, subset, download, and clip monthly soil moisture and surface storage variables from NASA's **GLDAS Noah Land Surface Model L4 monthly 0.25° x 0.25° v2.1 (`GLDAS_NOAH025_M`)** dataset for a custom geographical Area of Interest (AOI).
 
